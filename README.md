@@ -1,8 +1,6 @@
-2D-snake made with SFML.
-
-2D-snake.zip contains executable with DLLs required to run the game.
-
-Controls:
-
-Arrow keys  to switch directions.
-ESC to exit.
+# 2D Snake
+Snake made using SFML.
+## Controls
+Arrows keys to move.
+## Demo
+![Demo](https://media.giphy.com/media/UW7yfEXmQxyXDcqKe3/giphy.gif)
